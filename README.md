@@ -60,12 +60,10 @@
 ### top
 **top은 프로세스의 CPU, MEMEORY 사용량 등을 보여줌(기본으로 리눅스에 있지만 CORE별로 나오지는 않음)**
 
-
 *http://ironmask.net/355 참고할 것*
 
 ### htop
 **htop은 별도 설치 프로그램으로 장점은 CPU CORE별로 표시됨**
-
 
 *http://hisham.hm/htop/ 참고할 것*
 
@@ -88,7 +86,6 @@
 * SHIFT + y,p - 한줄 복사
 * CTRL + f - 다음 페이지 이동
 * CTRL + b - 이전 페이지 이동
-
 
 *http://dany-it.tistory.com/18 참고할 것*
 
