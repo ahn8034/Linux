@@ -1,7 +1,7 @@
 # Linux
 
 ## Linux study
-* 기본명령어 정리 : http://dany-it.tistory.com/63 
+* 기본명령어 정리 : http://dany-it.tistory.com/63 참고할 것
 
 ### ls
 * 파일 및 디렉토리 목록 보기
@@ -41,11 +41,11 @@
 ### top
 * top은 프로세스의 CPU, MEMEORY 사용량 등을 보여줌
 (기본으로 리눅스에 있지만 CORE별로 나오지는 않음)
-* http://ironmask.net/355 참고
+* http://ironmask.net/355 참고할 것
 
 ### htop
 * htop은 별도 설치 프로그램으로 장점은 CPU CORE별로 표시됨
-* http://hisham.hm/htop/
+* http://hisham.hm/htop/ 참고할 
 
 ### tree
 * 별도 설치해야 하는 프로그램으로 디렉토리 구조를 tree 형태로 보여줌
