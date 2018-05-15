@@ -1,7 +1,7 @@
 # Linux
 
 ## Linux study
-* 기본명령어 정리 : http://dany-it.tistory.com/18 
+* 기본명령어 정리 : http://dany-it.tistory.com/63 
 
 ### ls
 * 파일 및 디렉토리 목록 보기
