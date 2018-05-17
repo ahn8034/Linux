@@ -3,7 +3,7 @@
 ## Linux study
 *기본명령어 정리 : http://dany-it.tistory.com/63 참고할 것*
 
-### 'ls`
+### `ls`
 **파일 및 디렉토리 목록 보기**
 
 ### `df`
