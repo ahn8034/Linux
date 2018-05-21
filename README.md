@@ -113,8 +113,7 @@
 **파일이름을 인자로 받아서 그 내용을 쭉 이어주는 역할을 함**
 
 * `cat file1 file2 file3` - 3개 파일 내용을 쭉 이어서 출력
-                           
-                           (내용이 한 화면 이상이면 제대로 읽을 수 없기 때문에 보통 more, less 명령어와 같이 사용, `cat file | more`)
+* `cat file | more` - 내용이 한 화면 이상이면 제대로 읽을 수 없기 때문에 보통 more, less 명령어와 같이 사용
 * `cat file file2 file3 > file4` - 세 개의 파일을 모두 합쳐서 새로운 file4로 만들어 줌
 * `cat file1 >> file2` - file2에 file1의 내용을 덧붙여줌
 * `cat > [새로운 파일명]` - 새로운 파일을  만들 때 사용
