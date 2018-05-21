@@ -158,7 +158,7 @@
 * `-f` - sed 스크립드 파일 지정에 사용됨
 * `-n` - 기본 출력을 생략함
 
-*https://blog.naver.com/minki0127/220677180665* 참고할 것
+*https://blog.naver.com/minki0127/220677180665 참고할 것*
 
 ### `lsof`
 
